@@ -12,3 +12,4 @@ class sample:
 obj = sample()
 obj.fun()
 obj.fun1()
+obj.fun2()
